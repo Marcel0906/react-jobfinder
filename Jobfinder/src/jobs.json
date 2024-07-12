@@ -85,45 +85,17 @@
       }
     },
     {
-      "id": "7065",
-      "title": "Dolores aliqua Non ",
-      "type": "Internship",
-      "location": "Qui cupiditate neces",
-      "description": "Eos quibusdam ullamc",
-      "salary": "$70K - 80K",
+      "id": "81b6",
+      "title": "Impedit voluptatem ",
+      "type": "Full-Time",
+      "location": "Rerum quis atque sun",
+      "description": "Reprehenderit dolore",
+      "salary": "Under $50K",
       "company": {
-        "name": "Klein and Horn Co",
-        "description": "Omnis mollitia deser",
-        "contactEmail": "tuhiwicypy@mailinator.com",
-        "contactPhone": "+1 (642) 195-9821"
-      }
-    },
-    {
-      "id": "a178",
-      "title": "Odit sed sed perspic",
-      "type": "Internship",
-      "location": "Sed ea odio non cons",
-      "description": "Nemo molestiae aut v",
-      "salary": "$90K - 100K",
-      "company": {
-        "name": "Medina and Gibson Traders",
-        "description": "Nesciunt nesciunt ",
-        "contactEmail": "xeqe@mailinator.com",
-        "contactPhone": "+1 (538) 695-5686"
-      }
-    },
-    {
-      "id": "3e2b",
-      "title": "Reprehenderit dolore",
-      "type": "Part-Time",
-      "location": "Ipsa sed tempor sun",
-      "description": "Non totam laborum ip",
-      "salary": "$60K - 70K",
-      "company": {
-        "name": "Davenport and Hahn Co",
-        "description": "Molestias commodo ip",
-        "contactEmail": "zaci@mailinator.com",
-        "contactPhone": "+1 (408) 881-7027"
+        "name": "Atkinson and Steele Co",
+        "description": "Blanditiis quibusdam",
+        "contactEmail": "hukise@mailinator.com",
+        "contactPhone": "+1 (205) 183-1894"
       }
     }
   ]

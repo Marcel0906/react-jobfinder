@@ -69,7 +69,7 @@ return;
   return;
   }
 
-  //  Update Job
+  //  Update Job does not work yet
 
   const updateJob = async(job) => {
     const res = await fetch(`/api/jobs/${job.id}`, {
